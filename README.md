@@ -1,1 +1,1 @@
-# odin-recipes
+# With this project I will be demonstrating my HTML skills so far. I will set up a html page, add a header, create links, add pictures and have lists which will include both unordered and ordered lists. # odin-recipes
